@@ -9,7 +9,7 @@ As for ISAR Streaming make sure you are using Mixed Reality Toolkit version 2. V
 
 MRTK2 Documentation: https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/?view=mrtkunity-2022-05
 
-AS for ISAR setup instruction, follow this instruction: https://support.holo-light.com/portal/en/kb/articles/isar-sdk-2400-quickstart-guide-for-hololens-2
+As for ISAR setup instruction, follow this instruction: https://support.holo-light.com/portal/en/kb/articles/isar-sdk-2400-quickstart-guide-for-hololens-2
 
 Clone this Repo: https://github.com/Holo-Light-GmbH/ISAR-SDK-Trial
 
