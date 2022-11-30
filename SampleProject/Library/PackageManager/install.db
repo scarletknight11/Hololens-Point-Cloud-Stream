@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "d54292e2604a",
+        "mtime": 1667446638865,
+        "size": 11911621,
+        "localPath": "D:\\Azure-Kinect-Sample-for-Unity\\SampleProject\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.6.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "c47efbe1f8cd",
+        "mtime": 1656818711284,
+        "size": 55085272,
+        "localPath": "D:\\Azure-Kinect-Sample-for-Unity\\SampleProject\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "07db80b5ea14",
+        "mtime": 1656818696991,
+        "size": 1129390,
+        "localPath": "D:\\Azure-Kinect-Sample-for-Unity\\SampleProject\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "321dd3d08b64",
+        "mtime": 1656818701000,
+        "size": 11554543,
+        "localPath": "D:\\Azure-Kinect-Sample-for-Unity\\SampleProject\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "5e90f7dbbcd8",
+        "mtime": 1656818697850,
+        "size": 5302738,
+        "localPath": "D:\\Azure-Kinect-Sample-for-Unity\\SampleProject\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.testutilities": {
+      "tarball": {
+        "hash": "6af09d0d1838",
+        "mtime": 1656818696234,
+        "size": 18011,
+        "localPath": "D:\\Azure-Kinect-Sample-for-Unity\\SampleProject\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.testutilities-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "e20aa4fa377a",
+        "mtime": 1656818697199,
+        "size": 2107313,
+        "localPath": "D:\\Azure-Kinect-Sample-for-Unity\\SampleProject\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.8.2.tgz"
+      }
+    }
+  }
+}

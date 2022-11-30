@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    HoloLight.ISAR.Settings: {fileID: 11400000, guid: 69401c9ff90ed8b4188002ccd72adbd2,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: eba8e985420d89f41b4d8d534c07b12d,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 70fb5ae40b7641c4ab3b317fdac4e923,
+      type: 2}

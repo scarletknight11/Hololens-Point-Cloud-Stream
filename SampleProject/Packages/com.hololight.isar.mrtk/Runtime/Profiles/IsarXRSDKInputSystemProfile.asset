@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b71cb900fa9dec5488df2deb180db58f, type: 3}
+  m_Name: IsarXRSDKInputSystemProfile
+  m_EditorClassIdentifier: 
+  isCustomProfile: 1
+  dataProviderConfigurations:
+  - componentType:
+      reference: Microsoft.MixedReality.Toolkit.WindowsMixedReality.Input.WindowsMixedRealityEyeGazeDataProvider,
+        Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality
+    componentName: Windows Mixed Reality Eye Gaze Provider
+    priority: 0
+    runtimePlatform: 8
+    deviceManagerProfile: {fileID: 11400000, guid: 2d87dd11b18f700449c9dab320d19b99,
+      type: 2}
+  - componentType:
+      reference: HoloLight.Isar.Runtime.MRTK.IsarXRSDKDeviceManager, Hololight.Isar.Runtime.MRTK
+    componentName: ISAR XRSDK Device Manager
+    priority: 0
+    runtimePlatform: 25
+    deviceManagerProfile: {fileID: 0}
+  - componentType:
+      reference: Microsoft.MixedReality.Toolkit.Input.HandJointService, Microsoft.MixedReality.Toolkit
+    componentName: Hand Joint Service
+    priority: 0
+    runtimePlatform: -1
+    deviceManagerProfile: {fileID: 0}
+  - componentType:
+      reference: HoloLight.Isar.Runtime.MRTK.IsarXRSDKTouchManager, Hololight.Isar.Runtime.MRTK
+    componentName: ISAR XRSDK Touch Device Manager
+    priority: 0
+    runtimePlatform: 25
+    deviceManagerProfile: {fileID: 0}
+  focusProviderType:
+    reference: Microsoft.MixedReality.Toolkit.Input.FocusProvider, Microsoft.MixedReality.Toolkit.Services.InputSystem
+  raycastProviderType:
+    reference: Microsoft.MixedReality.Toolkit.Input.DefaultRaycastProvider, Microsoft.MixedReality.Toolkit.Services.InputSystem
+  focusQueryBufferSize: 128
+  shouldUseGraphicsRaycast: 1
+  focusIndividualCompoundCollider: 0
+  inputActionsProfile: {fileID: 11400000, guid: 7333e3a4657ed484d8ba36feec1c0fbb,
+    type: 2}
+  inputActionRulesProfile: {fileID: 11400000, guid: cdd882f8520bc1144809aa39f1124136,
+    type: 2}
+  pointerProfile: {fileID: 11400000, guid: 0b22000b98bcd5840a897beb44210dac, type: 2}
+  gesturesProfile: {fileID: 11400000, guid: 3114d4ef8e2327c4b92d1949710c78a6, type: 2}
+  speechCommandsProfile: {fileID: 11400000, guid: eb4030bfb619fb54ba331fe235b9231e,
+    type: 2}
+  enableControllerMapping: 1
+  controllerMappingProfile: {fileID: 11400000, guid: 755e19bb2dfe956438ad7077a398c329,
+    type: 2}
+  controllerVisualizationProfile: {fileID: 0}
+  handTrackingProfile: {fileID: 11400000, guid: 34c5a303935d2d1499aba47a0af4da49,
+    type: 2}
