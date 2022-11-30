@@ -20,4 +20,4 @@ Build Platform should be set to Windows, Mac or Linux.
 
 For people who have Hololens device you can download ISAR Client app from Microsoft Store. You will need that installed to enter your Computer IP to the ISAR client app which will then stream the app yo have running in Unity Editor directly to the Hololens.
 
-IAR works for Both Point cloud and Texture mesh unity scenes
+ISAR works for Both Point cloud and Texture mesh unity scenes
